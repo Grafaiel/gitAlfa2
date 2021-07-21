@@ -6,8 +6,8 @@
 
 <h3>  Sobre mim!</h3>
 
-  🙋🏻‍♂️ &nbsp; Cursando Pós-Graduação em desenvolvimento de aplicações para web e dispositivos móveis - UniAlfa. <br />
-  🙋🏻‍♂️ &nbsp; Graduado em Sistemas de Informação - Unipar. <br />
+  🙋🏻‍♂️ &nbsp; Graduado em Sistemas de Informação - Unipar (2015 - 2018). <br />
+  🙋🏻‍♂️ &nbsp; Pós-Graduando em desenvolvimento de aplicações para web e dispositivos móveis - UniAlfa (05/2021 - 12/2022). <br />
   💼 &nbsp; Atualmente procuro me Desenvolver buscando desafios.
 
 ## Linguagens e Ferramentas
@@ -22,3 +22,6 @@
 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+## Contatos
+E-mail: <code>Gabrielbercelline@gmail.com</code>
